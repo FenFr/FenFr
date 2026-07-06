@@ -8,7 +8,7 @@
 
 
 <h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&label=Profile_Views&color=1F4964&style=flat-square"> </h2>
-I studied for my Masters in Electrical Engineering at the University of Rostock where I specialized in Applied Microelectronics and Computer Engineering.
+I am an Electrical Engineer living and working in the Hanseatic City of Rostock. I specialized in Applied Microelectronics and Computer Engineering at the University. At work I engineer batteries, battery chargers and BMUs.
 
 
 &nbsp;
@@ -21,12 +21,14 @@ I studied for my Masters in Electrical Engineering at the University of Rostock 
 [![C-Badge][c-badge-img]][c-badge-link] &nbsp;
 [![C++][cpp-badge-img]][cpp-badge-link] &nbsp; 
 [![Matlab][matlab-badge-img]][matlab-badge-link] &nbsp;
-[![VHDL][vhdl-badge-img]][vhdl-badge-link]
+[![VHDL][vhdl-badge-img]][vhdl-badge-link] &nbsp;
+[![LabVIEW][labview-badge-img]][labview-badge-link]
 
 
 ### Tools & Devices
 
 [![Visual Studio Code][vs-code-badge-img]][vs-code-badge-link] &nbsp;
+[![Altium][altium-badge-img]][altium-badge-link] &nbsp;
 [![Vivado][vivado-badge-img]][vivado-badge-link] &nbsp;
 [![FPGA][fpga-badge-img]][fpga-badge-link]
 
@@ -81,13 +83,17 @@ $$ \begin{align}
 [matlab-badge-link]:  https://de.mathworks.com/products/matlab.html
 [vhdl-badge-img]:     https://img.shields.io/badge/VHDL-371D33?style=for-the-badge
 [vhdl-badge-link]:    https://ieeexplore.ieee.org/document/8938196
+[labview-badge-img]:  https://img.shields.io/badge/LabVIEW-371D33?style=for-the-badge&logoColor=white&logo=LabVIEW
+[labview-badge-link]: https://www.ni.com/de/shop/labview
 
 [vs-code-badge-img]:  https://img.shields.io/badge/Visual_Studio_Code-312840?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
 [vs-code-badge-link]: https://code.visualstudio.com/
+[altium-badge-img]:   https://img.shields.io/badge/Altium-312840?style=for-the-badge
+[altium-badge-link]:  https://www.altium.com/
 [vivado-badge-img]:   https://img.shields.io/badge/Vivado-312840?style=for-the-badge&logo=amd&logoColor=white
 [vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
-[fpga-badge-img]:   https://img.shields.io/badge/FPGA-312840?style=for-the-badge
-[fpga-badge-link]:  https://en.wikipedia.org/wiki/Field-programmable_gate_array
+[fpga-badge-img]:     https://img.shields.io/badge/FPGA-312840?style=for-the-badge
+[fpga-badge-link]:    https://en.wikipedia.org/wiki/Field-programmable_gate_array
 
 [latex-badge-img]:  https://img.shields.io/badge/LaTeX-2B334C?style=for-the-badge&logoColor=white&logo=LaTeX
 [latex-badge-link]: https://www.latex-project.org/
@@ -95,11 +101,11 @@ $$ \begin{align}
 [excel-badge-img]:  https://img.shields.io/badge/Excel-2B334C?style=for-the-badge
 
 
-[gcard-badge-img]:  https://img.shields.io/badge/RTX_4070-1B3145?style=for-the-badge&logoColor=white&logo=nvidia
-[gcard-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/
-[cpu-badge-img]:    https://img.shields.io/badge/RYZEN_7_7435HS-1B3145?style=for-the-badge&logoColor=white&logo=amd
-[cpu-badge-link]:   https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
-[win_11-badge-img]:    https://img.shields.io/badge/Windows_11-1B3145?style=for-the-badge&logo=windows
-[win_11-badge-link]:   https://www.microsoft.com/en-us/windows/get-windows-11
-[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-1B3145?style=for-the-badge&logoColor=white&logo=ubuntu
-[lin-badge-link]:   https://ubuntu.com/
+[gcard-badge-img]:   https://img.shields.io/badge/RTX_4070-1B3145?style=for-the-badge&logoColor=white&logo=nvidia
+[gcard-badge-link]:  https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/
+[cpu-badge-img]:     https://img.shields.io/badge/RYZEN_7_7435HS-1B3145?style=for-the-badge&logoColor=white&logo=amd
+[cpu-badge-link]:    https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
+[win_11-badge-img]:  https://img.shields.io/badge/Windows_11-1B3145?style=for-the-badge&logo=windows
+[win_11-badge-link]: https://www.microsoft.com/en-us/windows/get-windows-11
+[lin-badge-img]:     https://img.shields.io/badge/Ubuntu-1B3145?style=for-the-badge&logoColor=white&logo=ubuntu
+[lin-badge-link]:    https://ubuntu.com/
