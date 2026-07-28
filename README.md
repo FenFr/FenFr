@@ -53,15 +53,15 @@ I am an Electrical Engineer living and working in the Hanseatic City of Rostock.
 
 $$ \begin{align}
 \nabla\times\vec{H}   &= \vec{J} + \frac{\partial \vec{D}}{\partial t} \hspace{1cm} & 
-\oint_{\partial A}\vec{H}\cdot d\vec{s}   &= \iint_A\vec{J}\cdot d\vec{A} + \iint_A\frac{\partial\vec{D}}{\partial t}\cdot d\vec{A} \hspace{1cm}  &
+\oint_{\partial A}\vec{H}\cdot d\vec{s}   &= \int_A\vec{J}\cdot d\vec{A} + \int_A\frac{\partial\vec{D}}{\partial t}\cdot d\vec{A} \hspace{1cm}  &
 \vec{J} &= \kappa\cdot\vec{E}                                                                                                                     \\
                       &                                                             &                                                             \\
--\nabla\times\vec{E}  &= \vec{M} + \frac{\partial \vec{B}}{\partial t}              &  
--\oint_{\partial A}\vec{E}\cdot d\vec{s}  &= \iint_A\vec{M}\cdot d\vec{A} + \iint_A\frac{\partial\vec{B}}{\partial t}\cdot d\vec{A}               &
+\nabla\times\vec{E}   &= - \frac{\partial \vec{B}}{\partial t}                      &  
+\oint_{\partial A}\vec{E}\cdot d\vec{s}   &= - \int_A\frac{\partial\vec{B}}{\partial t}\cdot d\vec{A}                                            &
 \vec{D} &= \varepsilon\cdot\vec{E}                                                                                                                \\
                       &                                                             &                                                             \\
 \nabla\cdot\vec{D}    &= \varrho                                                    & 
-\oint_{\partial V}\vec{D}\cdot d\vec{A}   &= \iiint_V \varrho \hspace{3pt} dV                                                                     &
+\oint_{\partial V}\vec{D}\cdot d\vec{A}   &= \int_V \varrho \hspace{3pt} dV                                                                     &
 \vec{B} &= \mu\cdot\vec{H}                                                                                                                        \\
                       &                                                             &                                                             \\
 \nabla\cdot\vec{B}    &= 0                                                          &
